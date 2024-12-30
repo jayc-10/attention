@@ -10,3 +10,5 @@ despite what could end up being huge workloads, i always found myself procrastin
 growing up, i've learned of a few techniques that i want to share with others who face similar issues. studying can be difficult and being neurodivergent shouldn't have to hinder our academic success. if anyone hasn't told you this you are capable. you will do great things and i hope this project can be of use or inspire you.
 
 thank you for taking the time to read the inspiration behind this project!
+
+as 2024 comes to an end, i want to express my gratitude to the friends i've met this year for motivating me to pursue my passions: thank you josh, leo, nathan and danny.
