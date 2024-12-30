@@ -18,3 +18,6 @@ while True:
     else:
         print(short())
         loop += 1
+        
+# work -> short-break -> work -> short-break -> work -> short-break -> work -> long-break
+# 25:00 -> 5:00 -> 25:00 -> 5:00 -> 25:00 -> 5:00 -> 25:00 -> 15:00
