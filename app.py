@@ -9,7 +9,8 @@ def countdown(count):
     if count > 0:
         window.after(1000, countdown, count - 1)
     else:
-        messagebox.showinfo("attention", "good work! time to take a break!")
+        messagebox.showinfo("attention", "good work! time to take a short break!")
+        short()
 
 
 def work():
